@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @THOWFEEKAHAMADU
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning computer science and engineeri
+- 🌱 A Software Engineer
 - 📫 How to reach me ...
 Email: thowfeekahamadu@gmail.com
 Mobile:9597798777
